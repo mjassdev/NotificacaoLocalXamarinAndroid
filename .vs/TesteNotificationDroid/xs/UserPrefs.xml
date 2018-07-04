@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5FB78513-58CB-422B-8698-3788C67B0100}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TesteNotificationDroid/Second_Activity.cs">
+    <Files>
+      <File FileName="TesteNotificationDroid/MainActivity.cs" Line="26" Column="1" />
+      <File FileName="TesteNotificationDroid/Second_Activity.cs" Line="30" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TesteNotificationDroid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_5.5" />
+</Properties>
