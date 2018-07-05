@@ -14,8 +14,16 @@
     <Jar>/Users/usuario/Projects/TesteNotificationDroid/TesteNotificationDroid/obj/Debug/lp/8/jl/bin/classes.jar</Jar>
     <Jar>/Users/usuario/Projects/TesteNotificationDroid/TesteNotificationDroid/obj/Debug/lp/9/jl/bin/classes.jar</Jar>
   </Jars>
-  <ResolvedResourceDirectories />
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/usuario/Projects/TesteNotificationDroid/TesteNotificationDroid/obj/Debug/lp/6/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/usuario/Projects/TesteNotificationDroid/TesteNotificationDroid/obj/Debug/lp/10/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/usuario/Projects/TesteNotificationDroid/TesteNotificationDroid/obj/Debug/lp/11/jl/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
   <ResolvedAssetDirectories />
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/usuario/Projects/TesteNotificationDroid/TesteNotificationDroid/obj/Debug/lp/6.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/usuario/Projects/TesteNotificationDroid/TesteNotificationDroid/obj/Debug/lp/10.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/usuario/Projects/TesteNotificationDroid/TesteNotificationDroid/obj/Debug/lp/11.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
 </Paths>

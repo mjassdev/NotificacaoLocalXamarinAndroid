@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{5FB78513-58CB-422B-8698-3788C67B0100}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TesteNotificationDroid/Second_Activity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TesteNotificationDroid/MainActivity.cs">
     <Files>
-      <File FileName="TesteNotificationDroid/MainActivity.cs" Line="26" Column="1" />
-      <File FileName="TesteNotificationDroid/Second_Activity.cs" Line="30" Column="2" />
+      <File FileName="TesteNotificationDroid/MainActivity.cs" Line="54" Column="21" />
+      <File FileName="TesteNotificationDroid/Second_Activity.cs" Line="28" Column="10" />
+      <File FileName="TesteNotificationDroid/ModelsHorarios/Agendamento.cs" Line="10" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
